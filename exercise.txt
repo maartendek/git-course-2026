@@ -1,3 +1,5 @@
 This is the first line of this text
 
 Third line
+
+We are making progress
